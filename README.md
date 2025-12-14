@@ -1,0 +1,2 @@
+# GoogleHitHiderAndAutoPageJS
+修复Google搜索屏蔽脚本与自动翻页脚本共同使用时，页面中不显示屏蔽按钮的问题。
